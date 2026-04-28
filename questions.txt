@@ -1,4 +1,4 @@
 Experiment 1: Suppose you are given a line of text as a plaintext. find out the corresponding Ceasar Cipher (i.e. character three to the right modulo 26). Then perform the reverse opearation to get original plaintext.
 Experiment 2: Consider the plaintext "DEPARTMENT OF COMPUTER SCIENCE AND ENGINEERING VARENDRA UNIVERSITY BANGLADESH". find out the corresponding Transposition Cipher (Take width as 4). Then perform the reverse opearation to get original plaintext.
-Experiment 3: Write a program to implement Diffie-Hellman Key Exchange
-Experiment 4: Prime Number Generation
+Experiment 3: Write a program to implement Diffie-Hellman Key Exchange.
+Experiment 4: Use the Lehmann algorithm to check whether the given number P is prime or not.
