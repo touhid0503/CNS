@@ -3,3 +3,4 @@ Experiment 2: Consider the plaintext "DEPARTMENT OF COMPUTER SCIENCE AND ENGINEE
 Experiment 3: Write a program to implement Diffie-Hellman Key Exchange.
 Experiment 4: Use the Lehmann algorithm to check whether the given number P is prime or not.
 Experimtnt 5: Sieve of Eratosthesis [T1: print primes, T1: return 'only primes' array] 
+Experimtnt 6: Symmetric Cryptography [T1: upper to lower case convert, T2: symmetric cipher] 
