@@ -2,5 +2,6 @@ Experiment 1: Suppose you are given a line of text as a plaintext. find out the 
 Experiment 2: Consider the plaintext "DEPARTMENT OF COMPUTER SCIENCE AND ENGINEERING VARENDRA UNIVERSITY BANGLADESH". find out the corresponding Transposition Cipher (Take width as 4). Then perform the reverse opearation to get original plaintext.
 Experiment 3: Write a program to implement Diffie-Hellman Key Exchange.
 Experiment 4: Use the Lehmann algorithm to check whether the given number P is prime or not.
-Experimtnt 5: Sieve of Eratosthesis [T1: print primes, T1: return 'only primes' array] 
-Experimtnt 6: Symmetric Cryptography [T1: upper to lower case convert, T2: symmetric cipher] 
+Experiment 5: Sieve of Eratosthesis [T1: print primes, T1: return 'only primes' array] 
+Experiment 6: Symmetric Cryptography [T1: upper to lower case convert, T2: symmetric cipher] 
+Experiment 7: RSA algorithm
